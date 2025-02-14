@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valentines/static/css/main.fb698eff.css",
+    "main.js": "/valentines/static/js/main.f293d1d0.js",
+    "index.html": "/valentines/index.html",
+    "main.fb698eff.css.map": "/valentines/static/css/main.fb698eff.css.map",
+    "main.f293d1d0.js.map": "/valentines/static/js/main.f293d1d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb698eff.css",
+    "static/js/main.f293d1d0.js"
+  ]
+}
