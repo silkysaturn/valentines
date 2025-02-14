@@ -9,9 +9,14 @@ function NewPage() {
       description: "I love everything about you, all of your flaws, all of your imperfections are everything to me."
     },
     {
-      img: `${process.env.PUBLIC_URL}/images/pink2.jpg`,
+      isSpotify: true,
       title: "",
       description: ""
+    },
+    {
+      img: `${process.env.PUBLIC_URL}/images/pink2.jpg`,
+      title: "Fine shyt",
+      description: "Lemme smack that booty ;)"
     },
     {
       img: `${process.env.PUBLIC_URL}/images/pink3.jpg`,
@@ -26,7 +31,7 @@ function NewPage() {
     {
       img: `${process.env.PUBLIC_URL}/images/heart.jpg`,
       title: "",
-      description: ""
+      description: "I know we aren't together this Valentines, but I hope this is enough for you. I really love how you asked me to be your Valentines this year. I know sometimes I can be childish with things like this but even still you went through with it and even went above and beyond."
     },
     {
       img: `${process.env.PUBLIC_URL}/images/fish.jpg`,
@@ -41,22 +46,17 @@ function NewPage() {
     {
       img: `${process.env.PUBLIC_URL}/images/twinhearts.jpg`,
       title: "",
-      description: ""
+      description: "You're always so silly and cute, I love how we can match each other's freak and cringe each other out. Making you cringe is my favorite thing to do because of how silly you get. Your laughs are always my favorite sound."
     },
     {
       img: `${process.env.PUBLIC_URL}/images/saturn.jpg`,
       title: "",
-      description: ""
+      description: "There's nothing more I can say other than that I love you so much. You work so hard and you have such a bright future ahead of you, I just hope you'll let me share that future with you."
     },
     {
       img: `${process.env.PUBLIC_URL}/images/pretty.jpg`,
       title: "",
-      description: ""
-    },
-    {
-      isSpotify: true,
-      title: "",
-      description: ""
+      description: "You're the only person I love and the only one I'm looking forward to spending my life with. I hope that one day, when we're old and wrinkly, that we are just as in love as we are today."
     }
   ];
 
