@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #a15668;
+  width: 75dvh;
+  padding: 20px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #eeadae;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.valentines {
+  background-color: #eeadae;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 15px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+  font-size: 1.1em;
+}
+
+.valentines:hover {
+  transform: scale(1.05);
+}
